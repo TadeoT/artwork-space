@@ -1,0 +1,15 @@
+.conteiner{
+    background-image: url('./resource/pizarra-madera-sobre-papel-pintado-diseno.jpg');
+    width: 2000px;
+    height: 1333px;
+}
+
+.img1{
+    position: absolute;
+    top: 550px;
+    left: 900px;
+}
+
+input[type=submit] {
+    color: red;
+}
